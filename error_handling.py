@@ -19,7 +19,7 @@ finally:
     print("All Working")
 #No matter the eror is present or not final block will work 
 # with try block also (if ther is no error),it will work with except(If try block have error)
-#===========================================================
+#
 #Combination of 4 blocks Try,except,else, finally
 a={1:2,4:5,8:9}
 try:
